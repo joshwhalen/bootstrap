@@ -1,4 +1,8 @@
-# ICJ Bootstrap Template
+# ICJ Bootstrap 5 Class Project
+
+Name: Josh Whalen
+Date: 10/09/2023
+
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
 
